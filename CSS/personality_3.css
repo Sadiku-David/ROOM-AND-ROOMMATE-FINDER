@@ -1,0 +1,761 @@
+/*
+ *	This content is generated from the PSD File Info.
+ *	(Alt+Shift+Ctrl+I).
+ *
+ *	@desc 		
+ *	@file 		personality_1
+ *	@date 		Tuesday 30th of August 2022 10:55:34 PM
+ *	@title 		DESIGN
+ *	@author 	
+ *	@keywords 	
+ *	@generator 	Export Kit v1.3.figma
+ *
+*/
+
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 428px; height: 826px; overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+
+#page_personality_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 428px;
+	height: 826px;
+}
+
+#_bg__personality_3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 428px;
+	height: 826px;
+	background:rgba(234.81,234.81,234.81,1);
+}
+#rectangle_13_ek2 {
+	top: 43px;
+	left: 22px;
+	width: 385px;
+	height: 7px;
+	-ms-border-radius: 7px;
+	-o-border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	background:rgba(205.2,205.2,205.2,1);
+}
+#rectangle_14_ek2 {
+	top: 43px;
+	left: 22px;
+	width: 261px;
+	height: 7px;
+	-ms-border-radius: 7px;
+	-o-border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	background:rgba(203,90,122,1);
+}
+#steps_3_4_personality {
+	top: 22px;
+	left: 22px;
+	width: 166px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+#music_ek1 {
+	top: 125px;
+	left: 51px;
+	width: 45px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#music_ek2 {
+	top: 220px;
+	left: 50px;
+	width: 45px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#music_ek3 {
+	top: 329px;
+	left: 50px;
+	width: 45px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#music_ek4 {
+	top: 431px;
+	left: 50px;
+	width: 45px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#music_ek5 {
+	top: 533px;
+	left: 50px;
+	width: 45px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#music_ek6 {
+	top: 635px;
+	left: 50px;
+	width: 45px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#music_ek7 {
+	top: 737px;
+	left: 50px;
+	width: 45px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#do_you_smoke_ {
+	top: 70px;
+	left: 23px;
+	width: 137.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+#do_you_drink_ {
+	top: 165px;
+	left: 22px;
+	width: 124.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+#are_you_a_party_person_ {
+	top: 274px;
+	left: 22px;
+	width: 200.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+#how_ofthen_do_you_clean_your_room_ {
+	top: 376px;
+	left: 22px;
+	width: 299.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+#how_ofthen_do_you_cook {
+	top: 478px;
+	left: 22px;
+	width: 203.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+#do_you_like_pets {
+	top: 579px;
+	left: 29px;
+	width: 139.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+#what_are_your_food_choices {
+	top: 682px;
+	left: 22px;
+	width: 230.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+#rectangle_30_ek1 {
+	top: 111px;
+	left: 30px;
+	width: 96px;
+	height: 36px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(203,90,122,1);
+}
+#rectangle_33 {
+	top: 206px;
+	left: 29px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_36 {
+	top: 315px;
+	left: 29px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_39 {
+	top: 417px;
+	left: 29px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_42 {
+	top: 519px;
+	left: 29px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_45 {
+	top: 621px;
+	left: 29px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_48 {
+	top: 723px;
+	left: 29px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_31 {
+	top: 111px;
+	left: 166px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_34 {
+	top: 206px;
+	left: 165px;
+	width: 96px;
+	height: 36px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(203,90,122,1);
+}
+#rectangle_37 {
+	top: 315px;
+	left: 165px;
+	width: 96px;
+	height: 36px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(203,90,122,1);
+}
+#rectangle_40 {
+	top: 417px;
+	left: 165px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_43 {
+	top: 519px;
+	left: 165px;
+	width: 96px;
+	height: 36px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(203,90,122,1);
+}
+#rectangle_46 {
+	top: 621px;
+	left: 165px;
+	width: 96px;
+	height: 36px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(203,90,122,1);
+}
+#rectangle_49 {
+	top: 723px;
+	left: 165px;
+	width: 96px;
+	height: 36px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(203,90,122,1);
+}
+#rectangle_32 {
+	top: 111px;
+	left: 302px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_35 {
+	top: 206px;
+	left: 301px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_38 {
+	top: 315px;
+	left: 301px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_41 {
+	top: 417px;
+	left: 301px;
+	width: 96px;
+	height: 36px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(203,90,122,1);
+}
+#rectangle_44 {
+	top: 519px;
+	left: 301px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_47 {
+	top: 621px;
+	left: 301px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_50 {
+	top: 723px;
+	left: 301px;
+	width: 98px;
+	height: 38px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#never {
+	top: 118px;
+	left: 59px;
+	width: 56.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#never_ek1 {
+	top: 213px;
+	left: 58px;
+	width: 56.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#never_ek2 {
+	top: 322px;
+	left: 58px;
+	width: 56.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#daily {
+	top: 424px;
+	left: 58px;
+	width: 51.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#ofthen {
+	top: 526px;
+	left: 58px;
+	width: 63.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#no {
+	top: 628px;
+	left: 68px;
+	width: 36.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#vegetarian {
+	top: 731px;
+	left: 43px;
+	width: 92.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#occasionally {
+	top: 118px;
+	left: 172px;
+	width: 103.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#occasionally_ek1 {
+	top: 213px;
+	left: 171px;
+	width: 103.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#occasionally_ek2 {
+	top: 322px;
+	left: 171px;
+	width: 103.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#once_a_week {
+	top: 424px;
+	left: 171px;
+	width: 102.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#sometimes {
+	top: 526px;
+	left: 176px;
+	width: 93.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#maybe {
+	top: 628px;
+	left: 192px;
+	width: 63.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#non_vege {
+	top: 731px;
+	left: 179px;
+	width: 86.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#regularly {
+	top: 118px;
+	left: 319px;
+	width: 80.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#regularly_ek1 {
+	top: 213px;
+	left: 318px;
+	width: 80.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#regularly_ek2 {
+	top: 322px;
+	left: 318px;
+	width: 80.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#twice_a_week {
+	top: 424px;
+	left: 307px;
+	width: 105.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#F9FDFF;
+}
+#rarely {
+	top: 526px;
+	left: 328px;
+	width: 60.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#yes {
+	top: 628px;
+	left: 339px;
+	width: 41.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#eggs {
+	top: 730px;
+	left: 339px;
+	width: 50.5px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#_next_ek2 {
+	top: 782px;
+	left: 356px;
+	width: 57px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Add your custom CSS here */
+

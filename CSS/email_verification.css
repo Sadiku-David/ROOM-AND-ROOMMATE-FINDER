@@ -1,0 +1,277 @@
+/*
+ *	This content is generated from the PSD File Info.
+ *	(Alt+Shift+Ctrl+I).
+ *
+ *	@desc 		
+ *	@file 		personality_1
+ *	@date 		Tuesday 30th of August 2022 10:55:34 PM
+ *	@title 		DESIGN
+ *	@author 	
+ *	@keywords 	
+ *	@generator 	Export Kit v1.3.figma
+ *
+*/
+
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 428px; height: 826px; overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+
+
+
+
+
+
+
+#page_email_verification_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 826px;
+}
+
+#_bg__email_verification_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 826px;
+	background:rgba(234.81,234.81,234.81,1);
+}
+#sign_up_ek5 {
+	top: 650px;
+	left: 186px;
+	width: 58px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Coda;
+	font-size: 12px;
+	text-align: left;
+	color:#FFFFFF;
+}
+#verification {
+	top: 58px;
+	left: 151px;
+	width: 127px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+#ellipse_5 {
+	opacity:0.15999999642372;
+	top: 118px;
+	left: 138px;
+	width: 129px;
+	height: 129px;
+	-ms-border-radius: 64.5px / 64.5px;
+	-o-border-radius: 64.5px / 64.5px;
+	-moz-border-radius: 64.5px / 64.5px;
+	-webkit-border-radius: 64.5px / 64.5px;
+	border-radius: 64.5px / 64.5px;
+	background:rgba(85,9,9,0.16);
+}
+#sign_mail {
+	top: 142px;
+	left: 162px;
+	width: 81px;
+	height: 81px;
+}
+#enter_your_verification_code {
+	top: 290px;
+	left: 40px;
+	width: 300px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+#rectangle_5_ek1 {
+	top: 360px;
+	left: 43px;
+	width: 72px;
+	height: 72px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_6 {
+	top: 360px;
+	left: 298px;
+	width: 72px;
+	height: 72px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_7 {
+	top: 360px;
+	left: 213px;
+	width: 72px;
+	height: 72px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#rectangle_8 {
+	top: 360px;
+	left: 128px;
+	width: 72px;
+	height: 72px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid #cb5a7a;
+	background:rgba(255,255,255,0);
+}
+#_04_59 {
+	top: 461px;
+	left: 40px;
+	width: 66px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	color:#CB5A7A;
+}
+#we_sent_your_verification_code_to_your_email_someone______gmail_com__you_can_check_your_inbox {
+	top: 499px;
+	left: 43px;
+	width: 378px;
+	height: 94px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+#i_didn_t_recieve_the_code__send_again {
+	top: 613px;
+	left: 43px;
+	width: 360px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: left;
+	color:#CB5A7A;
+}
+#_rectangle_2_ek2 {
+	top: 707px;
+	left: 78px;
+	width: 270px;
+	height: 52px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(203,90,122,1);
+}
+#continue {
+	top: 720px;
+	left: 172px;
+	width: 108px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+#status_bar_ek3 {
+	top: 9px;
+	left: 11px;
+	width: 387px;
+	height: 18px;
+}
+
+#wifi_ek6 {
+	top: 5px;
+	left: 294px;
+	width: 14.94px;
+	height: 10px;
+}
+#time_ek3 {
+	top: 0px;
+	left: -2px;
+	width: 62px;
+	height: 26px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: center;
+	color:#030303;
+}
+#battery_ek3 {
+	top: 5px;
+	left: 359px;
+	width: 27.61px;
+	height: 11.5px;
+}
+
+#border_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 25px;
+	height: 11.5px;
+}
+#nub_ek3 {
+	top: 4px;
+	left: 26px;
+	width: 1.56px;
+	height: 3.87px;
+}
+#charge_ek3 {
+	top: 2px;
+	left: 2px;
+	width: 20.83px;
+	height: 7.5px;
+}
+#mobile_signal_ek3 {
+	top: 4px;
+	left: 325px;
+	width: 17.19px;
+	height: 10px;
+}
+
+
+
+
+
+
+
+
+/* Add your custom CSS here */
+

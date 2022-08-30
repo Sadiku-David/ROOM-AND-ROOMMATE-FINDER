@@ -1,0 +1,122 @@
+/*
+ *	This content is generated from the PSD File Info.
+ *	(Alt+Shift+Ctrl+I).
+ *
+ *	@desc 		
+ *	@file 		personality_1
+ *	@date 		Tuesday 30th of August 2022 10:55:34 PM
+ *	@title 		DESIGN
+ *	@author 	
+ *	@keywords 	
+ *	@generator 	Export Kit v1.3.figma
+ *
+*/
+
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 428px; height: 826px; overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+
+
+
+
+
+
+
+
+
+#page_splash_screen_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 427px;
+	height: 826px;
+}
+
+#__bg__splash_screen_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 427px;
+	height: 826px;
+	background:rgba(164.69,19.49,60.61,1);
+}
+#roomie {
+	top: 382px;
+	left: 106px;
+	width: 284px;
+	height: 107px;
+	overflow: hidden;
+	font-family: Level 01 Bold;
+	font-size: 64px;
+	text-align: left;
+	color:#1E1E1E;
+}
+#status_bar_ek5 {
+	top: 12px;
+	left: 23px;
+	width: 380px;
+	height: 18px;
+}
+
+#wifi_ek8 {
+	top: 4px;
+	left: 287px;
+	width: 14.94px;
+	height: 10px;
+}
+#time_ek5 {
+	top: 0px;
+	left: -2px;
+	width: 62px;
+	height: 26px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: center;
+	color:#030303;
+}
+#battery_ek5 {
+	top: 4px;
+	left: 352px;
+	width: 27.61px;
+	height: 11.5px;
+}
+
+#border_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 25px;
+	height: 11.5px;
+}
+#nub_ek5 {
+	top: 4px;
+	left: 26px;
+	width: 1.56px;
+	height: 3.87px;
+}
+#charge_ek5 {
+	top: 2px;
+	left: 2px;
+	width: 20.83px;
+	height: 7.5px;
+}
+#mobile_signal_ek5 {
+	top: 3px;
+	left: 318px;
+	width: 17.19px;
+	height: 10px;
+}
+
+
+
+
+
+
+/* Add your custom CSS here */
+

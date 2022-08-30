@@ -1,0 +1,280 @@
+/*
+ *	This content is generated from the PSD File Info.
+ *	(Alt+Shift+Ctrl+I).
+ *
+ *	@desc 		
+ *	@file 		personality_1
+ *	@date 		Tuesday 30th of August 2022 10:55:34 PM
+ *	@title 		DESIGN
+ *	@author 	
+ *	@keywords 	
+ *	@generator 	Export Kit v1.3.figma
+ *
+*/
+
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 428px; height: 826px; overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#page_sign_in_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 826px;
+}
+
+#_bg__sign_in_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 826px;
+	background:rgba(234.81,234.81,234.81,1);
+}
+#_rectangle_1_ek4 {
+	top: 531px;
+	left: 88px;
+	width: 225px;
+	height: 52px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(203,90,122,1);
+}
+#rommie {
+	top: 99px;
+	left: 117px;
+	width: 191px;
+	height: 81px;
+	overflow: hidden;
+	font-family: Level 01;
+	font-size: 48px;
+	text-align: center;
+	color:#000000;
+}
+#welcome {
+	top: 195px;
+	left: 93px;
+	width: 232px;
+	height: 123px;
+	overflow: hidden;
+	font-family: Morning Signature;
+	font-size: 70px;
+	text-align: center;
+	color:#CB5A7A;
+}
+#email_ek1 {
+	top: 292px;
+	left: 37px;
+	width: 51px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+#password_ek1 {
+	top: 393px;
+	left: 37px;
+	width: 81px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+#welcome_ek1 {
+	top: 195px;
+	left: 45px;
+	width: 232px;
+	height: 123px;
+	overflow: hidden;
+	font-family: Morning Signature;
+	font-size: 70px;
+	text-align: center;
+	color:#CB5A7A;
+}
+#line_1_ek1 {
+	top: 357px;
+	left: 39px;
+	width: 333px;
+	height: 1px;
+	background:#000000;
+}
+#line_2_ek1 {
+	top: 457px;
+	left: 39px;
+	width: 333px;
+	height: 1px;
+	background:#000000;
+}
+#____ek1 {
+	top: 424px;
+	left: 354px;
+	width: 18px;
+	height: 12px;
+}
+#forgot_password_ {
+	top: 475px;
+	left: 253px;
+	width: 136px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+#log_in {
+	top: 544px;
+	left: 180px;
+	width: 77px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+#don_t_have_an_account_yet_ {
+	top: 745px;
+	left: 83px;
+	width: 211px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+#_sign_up_ek6 {
+	top: 745px;
+	left: 279px;
+	width: 72px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#line_3_ek1 {
+	top: 625px;
+	left: 0px;
+	width: 135px;
+	height: 1px;
+	background:#000000;
+}
+#line_4 {
+	top: 625px;
+	left: 279px;
+	width: 135px;
+	height: 1px;
+	background:#000000;
+}
+#or_continue_with {
+	top: 615px;
+	left: 145px;
+	width: 141px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+#google {
+	top: 683px;
+	left: 135px;
+	width: 44px;
+	height: 44px;
+}
+#facebook {
+	top: 683px;
+	left: 218px;
+	width: 44px;
+	height: 44px;
+}
+#status_bar_ek7 {
+	top: 6px;
+	left: 18px;
+	width: 387px;
+	height: 18px;
+}
+
+#wifi_ek10 {
+	top: 5px;
+	left: 294px;
+	width: 14.94px;
+	height: 10px;
+}
+#time_ek7 {
+	top: 0px;
+	left: -2px;
+	width: 62px;
+	height: 26px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: center;
+	color:#030303;
+}
+#battery_ek7 {
+	top: 5px;
+	left: 359px;
+	width: 27.61px;
+	height: 11.5px;
+}
+
+#border_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 25px;
+	height: 11.5px;
+}
+#nub_ek7 {
+	top: 4px;
+	left: 26px;
+	width: 1.56px;
+	height: 3.87px;
+}
+#charge_ek7 {
+	top: 2px;
+	left: 2px;
+	width: 20.83px;
+	height: 7.5px;
+}
+#mobile_signal_ek7 {
+	top: 4px;
+	left: 325px;
+	width: 17.19px;
+	height: 10px;
+}
+
+
+/* Add your custom CSS here */
+

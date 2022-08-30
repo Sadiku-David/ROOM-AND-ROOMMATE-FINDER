@@ -1,0 +1,251 @@
+/*
+ *	This content is generated from the PSD File Info.
+ *	(Alt+Shift+Ctrl+I).
+ *
+ *	@desc 		
+ *	@file 		personality_1
+ *	@date 		Tuesday 30th of August 2022 10:55:34 PM
+ *	@title 		DESIGN
+ *	@author 	
+ *	@keywords 	
+ *	@generator 	Export Kit v1.3.figma
+ *
+*/
+
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 428px; height: 826px; overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+
+
+
+
+
+
+
+#page_sign_up_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 826px;
+}
+
+#_bg__sign_up_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 826px;
+	background:rgba(234.81,234.81,234.81,1);
+}
+#already_have_an_account__ {
+	top: 709px;
+	left: 87px;
+	width: 207px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+#_sign_in {
+	top: 709px;
+	left: 280px;
+	width: 66px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#CB5A7A;
+}
+#_rectangle_1_ek2 {
+	top: 633px;
+	left: 93px;
+	width: 225px;
+	height: 52px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(203,90,122,1);
+}
+#email {
+	top: 297px;
+	left: 23px;
+	width: 51px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+#username {
+	top: 193px;
+	left: 23px;
+	width: 85px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+#password {
+	top: 403px;
+	left: 20px;
+	width: 81px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+#line_1 {
+	top: 366px;
+	left: 25px;
+	width: 333px;
+	height: 1px;
+	background:#000000;
+}
+#line_3 {
+	top: 257px;
+	left: 25px;
+	width: 333px;
+	height: 1px;
+	background:#000000;
+}
+#line_2 {
+	top: 476px;
+	left: 25px;
+	width: 333px;
+	height: 1px;
+	background:#000000;
+}
+#___ {
+	top: 436px;
+	left: 340px;
+	width: 18px;
+	height: 12px;
+}
+#sign_up_ek3 {
+	top: 646px;
+	left: 173px;
+	width: 92px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+#enter_your_credentials_to_continue {
+	top: 120px;
+	left: 18px;
+	width: 223px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Coda;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+#by_continuing_you_agree_to_our_terms_of_service_and_privacy_policy {
+	top: 500px;
+	left: 32px;
+	width: 368px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+#sign_up_ek4 {
+	top: 83px;
+	left: 17px;
+	width: 92px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+#status_bar_ek2 {
+	top: 14px;
+	left: 12px;
+	width: 387px;
+	height: 18px;
+}
+
+#wifi_ek5 {
+	top: 5px;
+	left: 294px;
+	width: 14.94px;
+	height: 10px;
+}
+#time_ek2 {
+	top: 0px;
+	left: -2px;
+	width: 62px;
+	height: 26px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: center;
+	color:#030303;
+}
+#battery_ek2 {
+	top: 5px;
+	left: 359px;
+	width: 27.61px;
+	height: 11.5px;
+}
+
+#border_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 25px;
+	height: 11.5px;
+}
+#nub_ek2 {
+	top: 4px;
+	left: 26px;
+	width: 1.56px;
+	height: 3.87px;
+}
+#charge_ek2 {
+	top: 2px;
+	left: 2px;
+	width: 20.83px;
+	height: 7.5px;
+}
+#mobile_signal_ek2 {
+	top: 4px;
+	left: 325px;
+	width: 17.19px;
+	height: 10px;
+}
+
+
+
+
+
+
+
+
+/* Add your custom CSS here */
+
